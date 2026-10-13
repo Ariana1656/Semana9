@@ -1,0 +1,14 @@
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/bin/Debug/net10.0/Semana9
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/bin/Debug/net10.0/Semana9.deps.json
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/bin/Debug/net10.0/Semana9.runtimeconfig.json
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/bin/Debug/net10.0/Semana9.dll
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/bin/Debug/net10.0/Semana9.pdb
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/obj/Debug/net10.0/Semana9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/obj/Debug/net10.0/Semana9.AssemblyInfoInputs.cache
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/obj/Debug/net10.0/Semana9.AssemblyInfo.cs
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/obj/Debug/net10.0/Semana9.csproj.CoreCompileInputs.cache
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/obj/Debug/net10.0/Semana9.dll
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/obj/Debug/net10.0/refint/Semana9.dll
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/obj/Debug/net10.0/Semana9.pdb
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/obj/Debug/net10.0/Semana9.genruntimeconfig.cache
+/Users/arianita16/Desktop/C# ejercicios/Semana9/Semana9/obj/Debug/net10.0/ref/Semana9.dll
